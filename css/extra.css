@@ -4,6 +4,19 @@ body {
   line-height: 1.5;
 }
 
+/* Navbar alignment */
+.navbar .navbar-collapse {
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: flex-end !important;
+  margin-left: auto !important;
+}
+
+.navbar .navbar-nav {
+  flex-direction: row !important;
+  align-items: center !important;
+}
+
 /* Sidebar sticky */
 #component-sidebar {
   position: sticky;
