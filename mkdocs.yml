@@ -1,4 +1,4 @@
-site_name: Ressources IA et LLMs dans l'Enseignement Supérieur
+site_name: IA & LLMs dans l'Enseignement Supérieur
 site_description: Un site avec des ressources pour les étudiant·e·s, enseignant·e·s et chercheur·e·s sur l'IA et les LLMs dans l'enseignement supérieur.
 site_author: Théo Leschevin - Département Info Com, IUT Paris Rives de Seine
 nav:
@@ -8,7 +8,7 @@ nav:
   - Enseignant·e·s: ens.md
   - Chercheur·e·s: ch.md
   - Juridique: jur.md
-  
+
 theme:
   name: simple-blog
   sidebar: true
