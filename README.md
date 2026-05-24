@@ -45,4 +45,4 @@ docs/
 
 ## Technique
 
-Site généré avec [MkDocs](https://www.mkdocs.org/) et le thème [simple-blog](https://pypi.org/project/mkdocs-simple-blog/). Claude Code (Sonnet 4.6) a été utilisé dans la mise en place des fichiers .css et .js, permettant de personnaliser le thème. Les ressources sont collectés et organisés manuellement. Hébergé sur GitHub Pages.
+Site généré avec [MkDocs](https://www.mkdocs.org/) et le thème [simple-blog](https://pypi.org/project/mkdocs-simple-blog/). Claude Code (Sonnet 4.6) a été utilisé dans la mise en place des fichiers .css et .js, permettant de personnaliser le thème. Les ressources sont collectées et organisées manuellement. Hébergé sur GitHub Pages.
