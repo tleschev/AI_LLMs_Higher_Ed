@@ -43,10 +43,6 @@ docs/
     jur.md        # Ressources juridiques
 ```
 
-## Auteur
-
-Théo Leschevin | Département Info Com, IUT Paris Rives de Seine
-
 ## Technique
 
 Site généré avec [MkDocs](https://www.mkdocs.org/) et le thème [simple-blog](https://pypi.org/project/mkdocs-simple-blog/). Hébergé sur GitHub Pages.
