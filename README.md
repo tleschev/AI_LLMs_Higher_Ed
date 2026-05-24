@@ -18,7 +18,7 @@ Ce wiki est organisé en quatre sections principales :
 Pour ajouter ou mettre à jour une ressource, vous pouvez :
 
 - **Via l'interface GitHub** : cliquer sur le fichier à modifier, puis sur l'icône crayon, effectuer vos modifications et soumettre une *pull request*.
-- 
+  
 - **Via le terminal** :
   ```bash
   git clone https://github.com/tleschev/AI_LLMs_Higher_Ed.git
