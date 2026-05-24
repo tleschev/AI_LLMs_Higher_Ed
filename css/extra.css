@@ -5,6 +5,10 @@ body {
 }
 
 /* Navbar alignment */
+.navbar > .container-fluid {
+  align-items: center !important;
+}
+
 .navbar .navbar-collapse {
   flex-direction: row !important;
   align-items: center !important;
@@ -15,6 +19,11 @@ body {
 .navbar .navbar-nav {
   flex-direction: row !important;
   align-items: center !important;
+  margin-bottom: 0 !important;
+}
+
+#component-site-name {
+  line-height: 1 !important;
 }
 
 /* Sidebar sticky */
