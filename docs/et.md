@@ -1,6 +1,6 @@
-# i. Mieux comprendre l'IA
+# Mieux comprendre l'IA
 
-# ii. Mieux utiliser l'IA
+# Mieux utiliser l'IA
 
 ## Arbre décisionnel
 

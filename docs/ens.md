@@ -1,4 +1,4 @@
-# i. Comprendre les LLMs 
+# Comprendre les LLMs 
 
 ## 3blue1brown 
 
@@ -8,7 +8,7 @@ Voir Chapitres 4, 5 et 6 de la série.
 
 > Site web: [3blue1brown](https://www.3blue1brown.com/?topic=neural-networks)
 
-# ii. Utiliser les LLMs pour l'enseignement
+# Utiliser les LLMs pour l'enseignement
 
 ## FUN / CNAM 
 
@@ -26,7 +26,7 @@ Supports de formation proposés par Aline Bouchard (03/2026). Il s'agit d'un doc
 >
 > Lien direct vers le support de formation "Former les usagers à l'heure de ChatGPT : IA et compétences informationnelles (formation de formateurs)" (05/2026): [PDF.](https://urfist.chartes.psl.eu/sites/urfist/files/public/media/document/2026-05/Bouchard_URFIST-Paris_ChatGPT-pedagogique_04052026.pdf)
 
-# iii. Utiliser les LLMs en cours
+# Utiliser les LLMs en cours
 
-# iv. Ressources juridiques 
+# Ressources juridiques 
 
