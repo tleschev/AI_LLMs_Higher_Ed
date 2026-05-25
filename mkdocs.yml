@@ -12,7 +12,11 @@ nav:
 theme:
   name: simple-blog
   sidebar: true
+  language: fr
   navigation_depth: 3
+  logo: img/UniversiteParis_monogramme_noir_RVB.png
+  favicon: img/favicon.ico
+  theme_style: auto
 
 extra_css:
   - css/extra.css
