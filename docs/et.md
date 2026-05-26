@@ -1,5 +1,15 @@
 # Mieux comprendre l'IA
 
+## IA SUP - L'Université Numérique 
+
+Des ressources introductives pour les étudiant·e·s, comprenant à l'heure actuelle (05/2026) un module de l'Université Bretagne Sud et un MOOC de l'Université d'Avignon. 
+
+> [Le site](https://luniversitenumerique.fr/ia-sup-ressource-intelligence-artificielle/ia-sup-ia-dans-lenseignement-superieur-ressources-introductives-pour-les-etudiants/)
+
+On y trouve également des ressources «formation», comprenant des informations sur le référentiel PIX, le Moodle de l'Université Paris Saclay, ou encore le référentiel de l'UNESCO. 
+
+> [Ressources Formation](https://luniversitenumerique.fr/ia-sup-ressource-intelligence-artificielle/ia-sup-ia-dans-lenseignement-superieur-formation-pour-les-etudiants/)
+
 # Mieux utiliser l'IA
 
 ## Arbre décisionnel
@@ -18,6 +28,7 @@ Un guide pour comprendre les LLMs, avec des explications claires et des exemples
 >
 >Voir surtout : 
 >- [La page sur les 'best practices'](https://p3d40.github.io/week6.html)
+>
 >- [La page sur les 'tips, tricks and useful prompts'](https://p3d40.github.io/week8.html)
 
 On trouve par exemple l'échelle "TRUST" que Morales-Almazan propose pour évaluer votre niveau de réflexivité sur votre usage de l'IA - ou celui des étudiant·e·s - lorsque celle-ci est intégré à des pratiques de travail : 
