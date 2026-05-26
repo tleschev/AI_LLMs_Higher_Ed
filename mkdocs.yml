@@ -14,7 +14,7 @@ theme:
   sidebar: true
   language: fr
   navigation_depth: 3
-  logo: img/UniversiteParis_monogramme_noir_RVB.png
+  logo: img/logo_these_vc.png
   favicon: img/favicon.ico
   theme_style: auto
 
