@@ -52,13 +52,19 @@ body {
   padding-bottom: 0.1rem;
 }
 
-/* TOC : gris par défaut, noir sur l'entrée active */
+/* TOC : gris par défaut */
 .sidebar .nav a {
   color: #aaa !important;
 }
 
 .sidebar .nav a.toc-active {
-  color: var(--text) !important;
+  color: var(--title) !important;   /* mettre le bordeau quand activée */
+  font-weight: bold;
+}
+
+/* Navbar : entrée de la page active en bordeaux */
+.navbar .nav-link.active {
+  color: var(--title) !important;   /* ble bordeaux */
   font-weight: bold;
 }
 
