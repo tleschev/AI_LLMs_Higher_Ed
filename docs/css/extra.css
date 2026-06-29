@@ -1,3 +1,9 @@
+/* Palette : bordeaux IUT */
+:root {
+  --title: #8a1538;     /* titres (nom du site, H1 de page, h1–h6) */
+  --primary: #8a1538;   /* accent : survol des liens, fond du code inline */
+}
+
 /* Taille de la police de base */
 body {
   font-size: 0.8rem;
