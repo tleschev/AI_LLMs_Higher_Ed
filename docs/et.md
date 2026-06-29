@@ -13,7 +13,7 @@ On y trouve également des ressources «formation», comprenant des informations
 
 ## Brevet IA - Paris Saclay 
 
-Informations fournis par Marie Collombel : 
+Informations fournies par Marie Collombel : 
 
 L’Université Paris Cité est en train de contractualiser avec Paris Saclay pour la mise à disposition en Septembre 2026 du Brevet IA qu’ils ont développé. 
 
