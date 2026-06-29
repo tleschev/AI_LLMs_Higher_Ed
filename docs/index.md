@@ -49,3 +49,4 @@ Les commandes suivantes sont utilisées pour gérer le projet avec MkDocs, un g�
         ens.md    # Les ressources pour les enseignant·e·s.
         ch.md     # Les ressources pour les chercheur·e·s.
         jur.md    # Les ressources juridiques.
+        soc.md    # Les enjeux sociaux.
