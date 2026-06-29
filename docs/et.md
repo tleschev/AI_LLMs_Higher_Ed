@@ -47,7 +47,7 @@ Un guide pour comprendre les LLMs, avec des explications claires et des exemples
 >
 >- [La page sur les 'tips, tricks and useful prompts'](https://p3d40.github.io/week8.html)
 
-On trouve par exemple l'échelle "TRUST" que Morales-Almazan propose pour évaluer votre niveau de réflexivité sur votre usage de l'IA - ou celui des étudiant·e·s - lorsque celle-ci est intégré à des pratiques de travail : 
+On trouve par exemple `l'échelle TRUST` que Morales-Almazan propose pour évaluer votre niveau de réflexivité sur votre usage de l'IA - ou celui des étudiant·e·s - lorsque celle-ci est intégré à des pratiques de travail : 
 
 | Étape        | Dimension              | Description                                                                                                         |
 | ------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------- |

@@ -2,7 +2,7 @@
 
 ## Greenpeace - Jens Gröger et al. - Environmental Impacts of Artificial Intelligence
 
-Un rapport publié en Mai 2025 sur les conséquences environnementales du développement de l'intelligence artificielle. Il revient d'abord sur les grands acteurs du secteur et la multiplication des centres de données qui accompagnent l'essor de l'IA. Le rapport précise ensuite les conséquences de cette croissance en terme de consommation d'énergie, d'émission de gaz à effet de serre, de consommation d'eau, et de lien avec le secteur du nucléaire. 
+Un rapport publié en Mai 2025 sur les conséquences environnementales du développement de l'intelligence artificielle. Il revient d'abord sur les grands acteurs du secteur et la multiplication des centres de données qui accompagnent l'essor de l'IA. Le rapport précise ensuite les conséquences de cette croissance en terme de `consommation d'énergie, d'émission de gaz à effet de serre, de consommation d'eau`, et de `lien avec le secteur du nucléaire`. 
 
 ![alt text](image-4.png)
 
