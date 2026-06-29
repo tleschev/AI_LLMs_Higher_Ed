@@ -8,6 +8,7 @@ nav:
   - Enseignant·e·s: ens.md
   - Chercheur·e·s: ch.md
   - Juridique: jur.md
+  - Social : soc.md
 
 theme:
   name: simple-blog
