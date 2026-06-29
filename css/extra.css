@@ -1,4 +1,4 @@
-/* Palette : bordeaux IUT */
+/* Mettre le bordeau de Paris Cité en couleur */
 :root {
   --title: #8a1538;     /* titres (nom du site, H1 de page, h1–h6) */
   --primary: #8a1538;   /* accent : survol des liens, fond du code inline */
@@ -10,7 +10,7 @@ body {
   line-height: 1.5;
 }
 
-/* Navbar alignment */
+/* Ajuster la barre de nav */
 .navbar > .container-fluid {
   align-items: center !important;
 }
