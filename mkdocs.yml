@@ -20,7 +20,7 @@ theme:
   theme_style: auto
 
 extra_css:
-  - css/extra.css
+  - css/extra.css?v=2   # ajouté le numéro poru éviter que le css prenne 10 minutes à rafraichir à chaque fois - GitHub envoyait le cache
 
 extra_javascript:
   - js/toc-spy.js
