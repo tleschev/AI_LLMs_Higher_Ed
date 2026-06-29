@@ -10,6 +10,22 @@ On y trouve également des ressources «formation», comprenant des informations
 
 > [Ressources Formation](https://luniversitenumerique.fr/ia-sup-ressource-intelligence-artificielle/ia-sup-ia-dans-lenseignement-superieur-formation-pour-les-etudiants/)
 
+
+## Brevet IA - Paris Saclay 
+
+Informations fournis par Marie Collombel : 
+
+L’Université Paris Cité est en train de contractualiser avec Paris Saclay pour la mise à disposition en Septembre 2026 du Brevet IA qu’ils ont développé. 
+
+Il s’agit de modules d’auto-formation avec évaluation intégrée sur le fonctionnement de l’intelligence artificielle (algorithmes, modèles, apprentissage) et les enjeux sociaux de l’IA (environnementaux, juridiques, éthiques et scientifiques). Il sera possible d’intégrer tout ou partie de ces modules dans le cadre d’UE existantes ou de les proposer dans le cadre des UE d’ouverture. 
+
+>Il est possible de le tester ici : 
+>
+>[Découverte Brevet AI](https://demo.decouverte.brevetai.fr/)
+>
+>[Démo Brevet AI](https://demo.brevetai.fr/)
+
+
 # Mieux utiliser l'IA
 
 ## Arbre décisionnel
