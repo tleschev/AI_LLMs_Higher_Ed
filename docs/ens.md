@@ -57,6 +57,14 @@ Un travail de science de l'éducation à paraître en juin 2026, proposant une r
 
 # Utiliser les LLMs en cours
 
+## Wikipedia - Signs of AI writing  
+
+Une page qui réunit les éléments permettant à des relecteur·ice·s de détecter l'usage de l'IA dans la production d'un texte, à partir de l'expérience des modérateur·ice·s de Wikipédia. Comme présenté sur le site : 
+
+> « Il s'agit d'une liste de conventions d'écriture et de format typiques des chatbots IA tels que ChatGPT, accompagnée d'exemples réels tirés d'articles, de brouillons, de commentaires et de différents contenus présents sur Wikipédia. C'est un guide de terrain qui permet de détecter les contenu généré par IA non divulgué »
+>
+> [Page des modérateur·ice·s de Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+
 ## Propositions de bonnes pratiques 
 
 1. **Mise en place d'une `«annexe IA»` dans les rendus demandés aux étudiant·e·s** 
