@@ -88,7 +88,12 @@ Une page qui réunit les éléments permettant à des relecteur·ice·s de déte
 
         Cela implique également une charge d'exemplarité de notre part au regard du respect de la charte IA. 
 
-6. **En parallèle de ces approches en terme de compétences, renforcer les modules permettant de déployer `une distance critiques vis-à-vis de l'IA`**, notamment en matière de : 
+6. **Revaloriser autant que possible l'usage de `l'écrit et de la prise de note`, afin de favoriser la mémorisation, la satisfaction, et la prise de confiance des étudiant·e·s**
+    - En cours, sans accès aux ordinateurs et aux smartphone 
+    - En soutenance 
+    - Lors de réunion et de retours sur le travail
+
+7. **En parallèle de ces approches en terme de compétences, renforcer les modules permettant de déployer `une distance critiques vis-à-vis de l'IA`**, notamment en matière de : 
 
     - RSE/RSO
     - transformations de l'organisation du travail
