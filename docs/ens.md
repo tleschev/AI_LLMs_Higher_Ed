@@ -104,42 +104,49 @@ Une page qui réunit les éléments permettant à des relecteur·ice·s de déte
     - évolution des missions stratégiques et créatives
     - distanciation vis-à-vis du déterminisme technologique et du relativisme technologique
 
-## Charte du département Information-Communication - IUT Paris Rives de Seine
+## Charte de bonnes pratiques
 
-    Département Information-Communication
-    Charte éthique relative aux Intelligences Artificielles
+----
 
-    Préambule
-    
-    L'inflation de contenus de faible qualité génère de la confusion, et détruit de la valeur : la valeur réside 
-    dans la capacité à trier et sélectionner ce qui est pertinent dans un cas précis, dans une problématique située. 
-    En outre, les rapports sociaux sont basés sur la confiance et les rapports professionnels ont une dimension 
-    contractuelle : l'usage de l'IA non déclaré est une tromperie, qui contrevient à l'éthique comme aux 
-    engagements contractuels vis-à-vis de l'employeur ou du client.
+**`Département Information-Communication`**
 
-    Étudiant en Infocom à l’IUT Paris Rives de Seine, 
-    
-    • Quand j'utilise l'IA, je le dis, et je précise pour quoi faire. 
-    
-    • Je ne rends jamais à un enseignant ou un employeur une production d'IA non révisée, non expurgée. 
-    Si l'enseignant estime qu'il est de mon intérêt d'avoir recours à l'IA pour un aspect du travail, 
-    il me le fera savoir.
-    
-    • J’ai conscience qu'un enseignant peut refuser d'employer son temps à corriger une production pour 
-    laquelle j'ai utilisé l'IA pour économiser le mien. 
-    
-    • De même que je ne m'approprie pas le travail de mes camarades, je ne prétends pas avoir fait moi-même 
-    ce que j'ai fait faire, d’autant que les LLM reposent sur des données produites par d’autres 
-    êtres humains, le plus souvent non crédités. 
-    
-    • Ce que j'écris est de ma totale responsabilité : je serai donc légitimement jugé·e sur l'originalité, 
-    l'authenticité et la vérité de mes écrits, et j'assume les conséquences en termes de réputation 
-    et de confiance si je fais passer pour miens des propos que je n’ai pas produits, ou si ces propos 
-    sont erronés, fautifs ou aberrants. 
-    
-    • Je suis conscient·e que demander à une IA de fabriquer des sources fictives, chiffres, études, est 
-    une faute grave, qui peut avoir des conséquences juridiques, à l’université comme en entreprise. 
-    
-    • Je ne fournis pas à l'IA des données, cours, PowerPoint qui ne m'appartiennent pas et dont les 
-    auteurs n'ont pas consenti à cet usage.
+**`Charte éthique relative aux Intelligences Artificielles`**
+
+**Préambule**
+
+L'inflation de contenus de faible qualité génère de la confusion, et détruit de la valeur : la valeur réside 
+dans la capacité à trier et sélectionner ce qui est pertinent dans un cas précis, dans une problématique située. 
+En outre, les rapports sociaux sont basés sur la confiance et les rapports professionnels ont une dimension 
+contractuelle : l'usage de l'IA non déclaré est une tromperie, qui contrevient à l'éthique comme aux 
+engagements contractuels vis-à-vis de l'employeur ou du client.
+
+----
+
+**Étudiant en Infocom à l’IUT Paris Rives de Seine,**
+
+- Quand j'utilise l'IA, je le dis, et je précise pour quoi faire. 
+
+- Je ne rends jamais à un enseignant ou un employeur une production d'IA non révisée, non expurgée. 
+Si l'enseignant estime qu'il est de mon intérêt d'avoir recours à l'IA pour un aspect du travail, 
+il me le fera savoir.
+
+- J’ai conscience qu'un enseignant peut refuser d'employer son temps à corriger une production pour 
+laquelle j'ai utilisé l'IA pour économiser le mien. 
+
+- De même que je ne m'approprie pas le travail de mes camarades, je ne prétends pas avoir fait moi-même 
+ce que j'ai fait faire, d’autant que les LLM reposent sur des données produites par d’autres 
+êtres humains, le plus souvent non crédités. 
+
+- Ce que j'écris est de ma totale responsabilité : je serai donc légitimement jugé·e sur l'originalité, 
+l'authenticité et la vérité de mes écrits, et j'assume les conséquences en termes de réputation 
+et de confiance si je fais passer pour miens des propos que je n’ai pas produits, ou si ces propos 
+sont erronés, fautifs ou aberrants. 
+
+- Je suis conscient·e que demander à une IA de fabriquer des sources fictives, chiffres, études, est 
+une faute grave, qui peut avoir des conséquences juridiques, à l’université comme en entreprise. 
+
+- Je ne fournis pas à l'IA des données, cours, PowerPoint qui ne m'appartiennent pas et dont les 
+auteurs n'ont pas consenti à cet usage.
+
+----
 
